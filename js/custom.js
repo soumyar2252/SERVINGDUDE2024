@@ -10,9 +10,9 @@
 
     // BACKSTRETCH SLIDESHOW
     $('.hero-section').backstretch([
-      "images/slideshow/afro-woman-cleaning-window-with-rag-home.jpg", 
-      "images/slideshow/afro-woman-holding-bucket-with-cleaning-items.jpg",
-      "images/slideshow/unrecognizable-cleaner-walking-into-hotel-room-with-tools-detergents.jpg"
+      "images/slideshow/Firefly young-handsome-repairman-blue-overall-yellow-helmet-holding-toolbox.jpg", 
+      "images/slideshow/Firefly repairman-doing-air-conditioner-service.jpg",
+      "images/slideshow/Firefly male-electrician-works-switchboard-with-electrical-connecting.jpg"
     ],  {duration: 2000, fade: 750});
     
     // CUSTOM LINK
